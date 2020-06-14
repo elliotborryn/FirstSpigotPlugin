@@ -1,0 +1,6 @@
+name: MyFirstSpigotPlugin
+version: ${project.version}
+main: me.bluemoonredsun.myfirstspigotplugin.MyFirstSpigotPlugin
+api-version: 1.13
+authors: [bluemoonredsun]
+description: This is my first spigot plugin for a minecraft serveer
