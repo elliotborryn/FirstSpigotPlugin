@@ -1,2 +1,2 @@
 # FirstSpigotPlugin
- My first time making a spigot plugin for a server.
+>Learning how to make plugins for minecraft servers.
